@@ -6,4 +6,4 @@ edition = "2024"
 [dependencies]
 
 [workspace]
-members = [ "tutor-db","tutor-nodb"]
+members = [ "actix-error-handling", "tutor-db","tutor-nodb"]

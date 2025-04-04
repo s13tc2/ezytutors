@@ -55,6 +55,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "actix-error-handling"
+version = "0.1.0"
+dependencies = [
+ "actix-web 3.3.3",
+]
+
+[[package]]
 name = "actix-http"
 version = "2.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
